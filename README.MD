@@ -25,6 +25,7 @@ Para se mover na tela da modelagem utilizaremos apenas os botõs do mouse onde:
 - Botão esquerdo do mouse é para rotacionar a câmera
 - Botão direito do mouse é para movimentar a câmera 
 - Scroll do mouse serve para dar zoom in e zoom out
+- Para abir e fechar as portas basta apertas F1 ou FN F1
 
 Realizado por:
 
