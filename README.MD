@@ -9,7 +9,7 @@ Para conseguirmos importar o nosso objeto modelado no Blender utilizamos uma fun
 - - -
 ## Rodando o projeto
 
-Para rodar o projeto baixe a pasta models e digite os seguintes comandos:
+Para rodar o projeto baixe o repositório e digite os seguintes comandos:
 - Instalando as bibliotecas
 
 ``` 
